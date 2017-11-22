@@ -1,4 +1,4 @@
-![alt text](HumbertoGlez.github.io/images/Me.png "That's me!")
+![alt text](HumbertoGlez.github.io/images/Me.jpg "That's me!")
 
 About Me
 ======
