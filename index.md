@@ -9,7 +9,8 @@ text-align: justify}
 </style>
 
 Hi! My name is Humberto and I've always been passionate about technology. I like programming, making and *playing* videogames, my dream is to work as a game developer and make great games!
-In my life I want to be able to feel like I left my mark in the world by developing an App, a videogame, or simply collaborating in any type of system. Being in touch with technology is something that I want to always be and actively participate in the creation of new technology.
+
+I want to feel like I left my mark in the world by developing an App, a videogame, or simply collaborating in any type of system. Being in touch with technology is something that I love and I want to actively participate in the creation of new technology.
 For me, it is fundamental to maintain an ethic code that has the following points:
 ..* Contribute to society and human well-being.
 ..* Avoid harm to others.
