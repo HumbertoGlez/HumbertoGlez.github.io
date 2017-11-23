@@ -12,14 +12,14 @@ Hi! My name is Humberto and I've always been passionate about technology. I like
 
 I want to feel like I left my mark in the world by developing an App, a videogame, or simply collaborating in any type of system. Being in touch with technology is something that I love and I want to actively participate in the creation of new technology.
 For me, it is fundamental to maintain an ethic code that has the following points:
-..* Contribute to society and human well-being.
-..* Avoid harm to others.
-..* Be honest and trustworthy.
-..* Give proper credit for intellectual property.
-..* Respect the privacy of others.
+  * Contribute to society and human well-being.
+  * Avoid harm to others.
+  * Be honest and trustworthy.
+  * Give proper credit for intellectual property.
+  * Respect the privacy of others.
 
 ### Awards / Honors:
-..* High Academic Achievement Award (2017)
+  * High Academic Achievement Award (2017)
 
 
 Academic Information
@@ -32,4 +32,4 @@ In the next semesters I want to do my community service, I have to study abroad 
 Projects
 ======
 
-..* Platformer Videogame developed in Game Maker Studio 2 by a team of 5, I was in charge of programming the main gameplay mechanics.
+  * Platformer Videogame developed in Game Maker Studio 2 by a team of 5, I was in charge of programming the main gameplay mechanics.
