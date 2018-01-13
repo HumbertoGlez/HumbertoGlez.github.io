@@ -29,10 +29,10 @@ Academic Information
 ======
 
 I am currently persuing a Bachelor of Science in Computer Science and Technology (BCT) at ITESM Campus Monterrey, I was accepted to the Honors program in which I am required to take more advance courses.
-I speak fluent Spanish and English and I'm currently learning German.
+I speak fluent Spanish and English, beginner French and I'm currently learning German.
 
 
-In the next semesters I want to do my community service, I have to study abroad for 1 year according to the Honors program and I hope to be accepted for internships at tech companies.
+In the next semesters I want to do my community service, I will study abroad for at least 1 year according to the Honors program and I hope to be accepted for internships at tech companies.
 
 
 
