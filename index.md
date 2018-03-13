@@ -28,7 +28,7 @@ For me, it is fundamental to maintain an ethic code that has the following point
 Academic Information
 ======
 
-I am currently persuing a Bachelor of Science in Computer Science and Technology (BCT) at ITESM Campus Monterrey, I was accepted to the Honors program in which I am required to take more advance courses.
+I am currently persuing a Bachelor of Science in Computer Science and Technology (BCT) at ITESM Campus Monterrey, I was accepted to the Honors program in which I am required to take more advanced courses.
 I speak fluent Spanish and English, beginner French and I'm currently learning German.
 
 
