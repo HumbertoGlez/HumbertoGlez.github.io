@@ -12,7 +12,7 @@ text-align: justify}
 
 Hi! My name is Humberto and I've always been passionate about technology. I like programming, making and *playing* videogames, my dream is to work as a game developer and make great games!
 
-I want to feel like I left my mark on the world by developing an App, a videogame, or simply collaborating in any type of system. Being in touch with technology is something that I love and I want to actively participate in the creation of new technology.
+I want to feel like I left my mark on the world by developing an App, a videogame, or simply collaborating in any type of system. Being in touch with technology is something that I love and I want to actively participate in the creation of new one.
 For me, it is fundamental to maintain an ethic code that has the following points:
   * Contribute to society and human well-being.
   * Avoid harm to others.
@@ -21,18 +21,18 @@ For me, it is fundamental to maintain an ethic code that has the following point
   * Respect the privacy of others.
 
 ### Awards / Honors:
-  * High Academic Achievement Award (2017)
+  * Excellence Scholarship for Academic Merit (2017)
 
 
 
 Academic Information
 ======
 
-I am currently persuing a Bachelor of Science in Computer Science and Technology (BCT) at ITESM Campus Monterrey, I was accepted to the Honors program in which I am required to take more advanced courses.
+I am currently persuing a Bachelor of Science in Computer Science and Technology Engineering (BCT) at ITESM Campus Monterrey, I was accepted to the Honors program in which I am required to take more advanced courses.
 I speak fluent Spanish and English, beginner French and I'm currently learning German.
 
 
-In the next semesters I want to do my community service, I will study abroad for at least 1 year according to the Honors program and I hope to be accepted for internships at tech companies.
+In the next semesters I want to fulfill my community service, I will study abroad for at least 1 year according to the Honors program and I hope to be accepted for internships at tech companies.
 
 
 
