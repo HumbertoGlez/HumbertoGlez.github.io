@@ -39,4 +39,4 @@ In the next semesters I want to fulfill my community service, I will study abroa
 Projects
 ======
 
-  * Platformer Videogame developed in Game Maker Studio 2 by a team of 5, I was in charge of programming the main gameplay mechanics. [Download Game](https://boy-from-mars.itch.io/baja-definitiva)
+  * Platformer Videogame developed in Game Maker Studio 2 by a team of 5, I was in charge of programming the main gameplay mechanics. [Download Game at itch.io](https://boy-from-mars.itch.io/baja-definitiva)
