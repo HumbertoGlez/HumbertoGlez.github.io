@@ -39,4 +39,20 @@ In the next semesters I want to fulfill my community service, I will study abroa
 Projects
 ======
 
-  * Platformer Videogame developed in Game Maker Studio 2 by a team of 5, I was in charge of programming the main gameplay mechanics. [Download Game at itch.io](https://boy-from-mars.itch.io/baja-definitiva)
+ * Centro Virtual de Aprendizaje, ITESM:
+    ●	Updated the website of an online course using JavaScript, HTML and CSS.
+    ●	Worked with a team of three, responsible for two out of five modules. 
+ * FitBuddy, Google CodeU Program
+    ●	Collaborated with a team of peers to design and implement a web application using Java, JavaScript, HTML and CSS over the course of 10 weeks, leveraging various Google Cloud Platform APIs, including App Engine and Datastore.
+    ●	Practiced industry best practices such as: contributing to open source software using Git and GitHub, conducting code reviews with/for teammates, extending an existing codebase, participating in distributed development, designing new components and interfaces and leading them to completion.
+    ●	Built an editable user profile website utilizing Google’s Datastore to store user information.
+    ●	Implemented a comment and like system for a message feed and a search feature within the site.
+ * Xochi’s Adventure, Java Videogame
+    ●	Developed a videogame using Java with a team of four to promote Mexican Culture.
+    ●	Implemented UI and Audio elements and collaborated with game mechanics.
+    ●	Achieved “Best Game” award in the Videogame Development Project class.
+ * HackMTY 2018
+    ●	Participated with a team of four.
+    ●	Developed an Android videogame using Unity and C# to raise awareness about cigarette abuse.
+    ●	Responsible for main gameplay programming. (available in my Github)
+ * Platformer Videogame developed in Game Maker Studio 2 by a team of 5, I was in charge of programming the main gameplay mechanics. [Download Game at itch.io](https://boy-from-mars.itch.io/baja-definitiva)
