@@ -40,8 +40,8 @@ Projects
 ======
 
  * Centro Virtual de Aprendizaje, ITESM:
-    ●	Updated the website of an online course using JavaScript, HTML and CSS.
-    ●	Worked with a team of three, responsible for two out of five modules. 
+    * Updated the website of an online course using JavaScript, HTML and CSS.
+    * Worked with a team of three, responsible for two out of five modules. 
  * FitBuddy, Google CodeU Program
     ●	Collaborated with a team of peers to design and implement a web application using Java, JavaScript, HTML and CSS over the course of 10 weeks, leveraging various Google Cloud Platform APIs, including App Engine and Datastore.
     ●	Practiced industry best practices such as: contributing to open source software using Git and GitHub, conducting code reviews with/for teammates, extending an existing codebase, participating in distributed development, designing new components and interfaces and leading them to completion.
